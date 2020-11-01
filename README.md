@@ -1,7 +1,14 @@
 # dotnet-core-uninstaller-mac
 
 ## How to Use
-You can use the uninstaller with the following command.
+
+* Clone the repository
+
+* Grant necessary permissions the uninstaller file with the following command
+
+`chmod +x <repository>/dotnet-core-uninstaller-mac.sh`
+
+* You can use the uninstaller with the following command.
 
 `<repository>/dotnet-core-uninstaller-mac.sh <version-number>`
 
